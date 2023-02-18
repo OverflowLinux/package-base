@@ -1,1 +1,2 @@
-echo install to $INSTALL_TARGET
+#!/bin/sh
+echo install to $ROOT_TARGET
