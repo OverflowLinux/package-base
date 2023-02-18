@@ -1,0 +1,7 @@
+[Info]
+name=package_name
+version=0.0.1
+
+[Action]
+install=sh ./install.sh
+remove=sh ./remove.sh
