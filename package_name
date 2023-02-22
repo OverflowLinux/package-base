@@ -1,0 +1,8 @@
+#!/bin/sh
+NAME="package_name"
+install_package(){
+  echo "hello,$1!" # $1 is root target
+}
+remove_package(){
+  echo "goodbye,$1!" # $1 is root target
+}
